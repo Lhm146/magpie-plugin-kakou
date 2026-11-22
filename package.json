@@ -1,0 +1,14 @@
+{
+  "name": "magpie-plugin-kakou",
+  "version": "0.1.0",
+  "description": "卡扣AI (kakouai.com) for magpie — 每日签到与余额查询",
+  "type": "module",
+  "main": "./index.mjs",
+  "exports": "./index.mjs",
+  "keywords": ["magpie", "magpie-plugin", "kakou", "checkin"],
+  "license": "MIT",
+  "magpie": {
+    "icon": "https://kakouai.com/api/v1/settings/images/site_logo?v=522fbe642cf3",
+    "name": "卡扣AI 签到"
+  }
+}
